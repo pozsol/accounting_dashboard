@@ -1,0 +1,102 @@
+{
+    "1": {
+        "name": "Department A",
+        "doctor_ids": [
+            1,
+            26,
+            31,
+            35,
+            43
+        ]
+    },
+    "2": {
+        "name": "Department B",
+        "doctor_ids": [
+            14,
+            15,
+            20,
+            21,
+            33,
+            41
+        ]
+    },
+    "3": {
+        "name": "Department C",
+        "doctor_ids": [
+            10,
+            22,
+            25,
+            27,
+            29,
+            46,
+            49
+        ]
+    },
+    "4": {
+        "name": "Department D",
+        "doctor_ids": [
+            40,
+            50
+        ]
+    },
+    "5": {
+        "name": "Department E",
+        "doctor_ids": [
+            13,
+            17,
+            36
+        ]
+    },
+    "6": {
+        "name": "Department F",
+        "doctor_ids": [
+            19,
+            28,
+            32,
+            37,
+            42,
+            45,
+            47
+        ]
+    },
+    "7": {
+        "name": "Department G",
+        "doctor_ids": [
+            7,
+            8,
+            9,
+            18,
+            38,
+            48
+        ]
+    },
+    "8": {
+        "name": "Department H",
+        "doctor_ids": [
+            2,
+            4,
+            24,
+            30,
+            39,
+            44
+        ]
+    },
+    "9": {
+        "name": "Department I",
+        "doctor_ids": [
+            5,
+            11,
+            12,
+            34
+        ]
+    },
+    "10": {
+        "name": "Department J",
+        "doctor_ids": [
+            3,
+            6,
+            16,
+            23
+        ]
+    }
+}
